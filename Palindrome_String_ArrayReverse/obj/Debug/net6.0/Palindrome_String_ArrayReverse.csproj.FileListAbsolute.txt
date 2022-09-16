@@ -1,0 +1,15 @@
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/bin/Debug/net6.0/Palindrome_String_ArrayReverse
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/bin/Debug/net6.0/Palindrome_String_ArrayReverse.deps.json
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/bin/Debug/net6.0/Palindrome_String_ArrayReverse.runtimeconfig.json
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/bin/Debug/net6.0/Palindrome_String_ArrayReverse.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/bin/Debug/net6.0/Palindrome_String_ArrayReverse.pdb
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.csproj.AssemblyReference.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.AssemblyInfoInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.AssemblyInfo.cs
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.csproj.CoreCompileInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/refint/Palindrome_String_ArrayReverse.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.pdb
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/Palindrome_String_ArrayReverse.genruntimeconfig.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ArrayReverse/obj/Debug/net6.0/ref/Palindrome_String_ArrayReverse.dll

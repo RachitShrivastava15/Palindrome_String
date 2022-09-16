@@ -1,0 +1,15 @@
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/bin/Debug/net6.0/Palindrome_String_ForLoop
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/bin/Debug/net6.0/Palindrome_String_ForLoop.deps.json
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/bin/Debug/net6.0/Palindrome_String_ForLoop.runtimeconfig.json
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/bin/Debug/net6.0/Palindrome_String_ForLoop.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/bin/Debug/net6.0/Palindrome_String_ForLoop.pdb
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.csproj.AssemblyReference.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.AssemblyInfoInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.AssemblyInfo.cs
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.csproj.CoreCompileInputs.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/refint/Palindrome_String_ForLoop.dll
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.pdb
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/Palindrome_String_ForLoop.genruntimeconfig.cache
+/Users/rachitshrivastava/Desktop/Rachit/LeetCode/Pratice/Palindrome_String/Palindrome_String_ForLoop/obj/Debug/net6.0/ref/Palindrome_String_ForLoop.dll

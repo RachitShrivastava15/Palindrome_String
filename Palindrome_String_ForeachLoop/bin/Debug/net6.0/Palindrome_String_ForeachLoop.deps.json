@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Palindrome_String_ForeachLoop/1.0.0": {
+        "runtime": {
+          "Palindrome_String_ForeachLoop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Palindrome_String_ForeachLoop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
